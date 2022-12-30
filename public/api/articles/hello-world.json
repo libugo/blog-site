@@ -1,0 +1,44 @@
+{
+  "title": "一起从新开始",
+  "uid": "3d8aaa75b63b1df93f6a6202243c7902",
+  "slug": "hello-world",
+  "date": "2022-12-30T10:38:24.801Z",
+  "updated": "2022-12-30T11:16:34.878Z",
+  "comments": true,
+  "path": "api/articles/hello-world.json",
+  "keywords": null,
+  "cover": [],
+  "content": "<p>以前喜欢在博客上写日志，但是正经人谁写日志啊。</p>\n<h2 id=\"三次备案\"><a href=\"#三次备案\" class=\"headerlink\" title=\"三次备案\"></a>三次备案</h2><h3 id=\"第一次备案\"><a href=\"#第一次备案\" class=\"headerlink\" title=\"第一次备案\"></a>第一次备案</h3><p>在阿里云进行备案，光幕布就邮了很久，当时的规则运营商也不大明白。历经两个月，因个人不允许社区，猝。</p>\n<h3 id=\"第二次备案\"><a href=\"#第二次备案\" class=\"headerlink\" title=\"第二次备案\"></a>第二次备案</h3><p>景安备案，历经一个月，手机号已存在备案记录，猝</p>\n<h3 id=\"第三次备案\"><a href=\"#第三次备案\" class=\"headerlink\" title=\"第三次备案\"></a>第三次备案</h3><p>因为天翼云年终大促，年付了一个心仪的云主机，计划用于API或者Rustdesk的中继服务器。</p>\n<p><img src=\"https://cdn-libug.oss-accelerate.aliyuncs.com/libug/img/dc63d793bcb04571bd9135cdd863563a.png\" alt=\"RUNOOB 图标\"></p>\n<p>但是上手之后，越想越别扭，于是又开始了备案之旅。非常庆幸的是现在都是APP拍照自动p幕布，然后用自己的新手机号作为联系方式，终于用一周的时间完成了备案。<br>爽！因为虽然已经备案了，但是80端口还是访问不了，所以就写下了这些奇奇怪怪的文字当作是“Hello world”了。</p>\n<div class=\"custom-quote tip\">\n<span class=\"custom-quote-svg\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"\" xmlns=\"http://www.w3.org/2000/svg\" data-reactroot=\"\">\n<path fill=\"\" d=\"M20.86 14.13C20 14.7 19.56 15.74 19.77 16.76C20.13 18.55 18.55 20.13 16.76 19.77C15.74 19.57 14.7 20 14.13 20.86C13.12 22.38 10.89 22.38 9.88 20.86C9.3 20 8.26 19.56 7.24 19.77C5.45 20.13 3.87 18.55 4.23 16.76C4.43 15.74 4 14.7 3.14 14.13C1.62 13.12 1.62 10.89 3.14 9.88C4 9.3 4.44 8.26 4.23 7.24C3.87 5.45 5.45 3.87 7.24 4.23C8.26 4.44 9.3 4 9.87 3.14C10.88 1.62 13.11 1.62 14.12 3.14C14.7 4 15.74 4.44 16.76 4.23C18.55 3.87 20.13 5.45 19.77 7.24C19.56 8.26 20 9.3 20.86 9.87C22.38 10.88 22.38 13.12 20.86 14.13Z\" undefined=\"1\"></path>\n<path stroke-linejoin=\"round\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke=\"\" d=\"M12.01 15C12.01 14.5 12.01 14.5 12.01 14.5C12.04 13.75 13 13.46 14.04 12.2C14.41 11.74 14.69 11.41 14.86 10.85C15.15 9.95 14.92 9.18 14.86 9.02C14.8 8.79 14.52 8 13.72 7.46C13.06 7.02 12.42 7 12.14 7C11.9 7 11.36 7 10.78 7.3C10.28 7.56 9.98 7.9 9.83 8.1C9.24 8.82 9.06 9.63 9 10.06\"></path>\n<path stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke=\"\" d=\"M11.99 18H12.01\"></path>\n</svg></span>\n<p class=\"custom-quote-title\">关于折腾</p>\n<p>我又把井盖顶来起来，从地下探出了头，这次也要折腾到底。</p>\n</div>\n",
+  "text": "以前喜欢在博客上写日志，但是正经人谁写日志啊。 三次备案第一次备案在阿里云进行备案，光幕布就邮了很久，当时的规则运营商也不大明白。历经两个月，因个人不允许社区，猝。 第二次备案景安备案，历经一个月，手机号已存在备案记录，猝 第三次备案因为天翼云年终大促，年付了一个心仪的云主机，计...",
+  "link": "",
+  "photos": [],
+  "count_time": {
+    "symbolsCount": 340,
+    "symbolsTime": "1 mins."
+  },
+  "categories": [],
+  "tags": [],
+  "toc": "<ol class=\"toc\"><li class=\"toc-item toc-level-2\"><a class=\"toc-link\" href=\"#%E4%B8%89%E6%AC%A1%E5%A4%87%E6%A1%88\"><span class=\"toc-text\">三次备案</span></a><ol class=\"toc-child\"><li class=\"toc-item toc-level-3\"><a class=\"toc-link\" href=\"#%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%87%E6%A1%88\"><span class=\"toc-text\">第一次备案</span></a></li><li class=\"toc-item toc-level-3\"><a class=\"toc-link\" href=\"#%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%A4%87%E6%A1%88\"><span class=\"toc-text\">第二次备案</span></a></li><li class=\"toc-item toc-level-3\"><a class=\"toc-link\" href=\"#%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%A4%87%E6%A1%88\"><span class=\"toc-text\">第三次备案</span></a></li></ol></li></ol>",
+  "author": {
+    "name": "libug",
+    "slug": "blog-author",
+    "avatar": "http://cdn-libug.oss-accelerate.aliyuncs.com/libug/img/avatar.jpg",
+    "link": "/",
+    "description": "",
+    "socials": {
+      "github": "",
+      "twitter": "",
+      "stackoverflow": "",
+      "wechat": "",
+      "qq": "",
+      "weibo": "",
+      "zhihu": "",
+      "csdn": "",
+      "juejin": "",
+      "customs": {}
+    }
+  },
+  "mapped": true,
+  "prev_post": {},
+  "next_post": {}
+}
